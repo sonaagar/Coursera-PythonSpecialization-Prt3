@@ -1,0 +1,11 @@
+To retrieve headers go to the site
+
+right click and click inspect
+
+At right a  window will open
+
+Go to Network 
+
+select intro-short.txt
+
+scroll up down and you'll get all information you need to complete this assignment
